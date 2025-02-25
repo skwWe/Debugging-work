@@ -1,0 +1,91 @@
+Начало работы программы
+Результат вычислений: 5
+Начало работы программы
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+Начало работы программы
+FormatException: Входная строка имела неверный формат.
+Стек вызовов:    в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 19
+FormatException: Входная строка имела неверный формат.
+Стек вызовов:    в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 19
+Начало работы программы
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+Начало работы программы
+Начало работы программы
+Начало работы программы
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+Начало работы программы
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+Начало работы программы
+DivideByZeroException: Ошибка: Деление на ноль.
+Стек вызовов:    в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 40
+Начало работы программы
+Результат вычислений: 5
+Начало работы программы
+Результат вычислений: 100000000003
+Начало работы программы
+Результат вычислений: 5
+Начало работы программы
+Результат вычислений: 5
+Нагрузка завершена. Время выполнения: 46 мс
+Нагрузка завершена. Время выполнения: 46 мс
+Начало работы программы
+Результат вычислений: 500000
+Нагрузка завершена. Время выполнения: 4096 мс
+Нагрузка завершена. Время выполнения: 4096 мс
+Начало работы программы
+Результат вычислений: 80000
+Нагрузка завершена. Время выполнения: 46 мс
+Нагрузка завершена. Время выполнения: 46 мс
+Начало работы программы
+Результат вычислений: 700000000
+Нагрузка завершена. Время выполнения: 4144 мс
+Нагрузка завершена. Время выполнения: 4145 мс
+Начало работы программы
+Результат вычислений: 10
+Нагрузка завершена. Время выполнения: 4713 мс
+Нагрузка завершена. Время выполнения: 4713 мс
+Начало работы программы
+Результат вычислений: 10
+Нагрузка завершена. Время выполнения: 4307 мс
+Нагрузка завершена. Время выполнения: 4308 мс
+Начало работы программы
+Результат вычислений: 10
+Нагрузка завершена. Время выполнения: 5717 мс
+Нагрузка завершена. Время выполнения: 5717 мс
+Начало работы программы
+Результат вычислений: 10
+Нагрузка завершена. Время выполнения: 4688 мс
+Нагрузка завершена. Время выполнения: 4689 мс
+Начало работы программы
+Результат вычислений: 2000000
+Нагрузка завершена. Время выполнения: 4489 мс
+Нагрузка завершена. Время выполнения: 4490 мс
+Начало работы программы
+FormatException: Входная строка имела неверный формат.
+Стек вызовов:    в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 21
+FormatException: Входная строка имела неверный формат.
+Стек вызовов:    в System.Number.ParseDouble(String value, NumberStyles options, NumberFormatInfo numfmt)
+   в System.Convert.ToDouble(String value)
+   в Debugging.Program.Main(String[] args) в C:\Users\Dom\source\repos\Debugging\Debugging\Program.cs:строка 21
+Начало работы программы
+Результат вычислений: 110
+Нагрузка завершена. Время выполнения: 4678 мс
+Нагрузка завершена. Время выполнения: 4679 мс

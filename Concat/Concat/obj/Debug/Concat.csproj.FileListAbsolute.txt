@@ -1,0 +1,7 @@
+C:\Users\Dom\source\repos\Concat\Concat\bin\Debug\Concat.exe.config
+C:\Users\Dom\source\repos\Concat\Concat\bin\Debug\Concat.exe
+C:\Users\Dom\source\repos\Concat\Concat\bin\Debug\Concat.pdb
+C:\Users\Dom\source\repos\Concat\Concat\obj\Debug\Concat.csproj.AssemblyReference.cache
+C:\Users\Dom\source\repos\Concat\Concat\obj\Debug\Concat.csproj.CoreCompileInputs.cache
+C:\Users\Dom\source\repos\Concat\Concat\obj\Debug\Concat.exe
+C:\Users\Dom\source\repos\Concat\Concat\obj\Debug\Concat.pdb

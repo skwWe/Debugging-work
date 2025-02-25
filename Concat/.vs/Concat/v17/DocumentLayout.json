@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dom\\source\\repos\\Concat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F05B088A-08A7-42D6-B883-37D39436B75C}|Concat\\Concat.csproj|c:\\users\\dom\\source\\repos\\concat\\concat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F05B088A-08A7-42D6-B883-37D39436B75C}|Concat\\Concat.csproj|solutionrelative:concat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dom\\source\\repos\\Concat\\Concat\\Program.cs",
+              "RelativeDocumentMoniker": "Concat\\Program.cs",
+              "ToolTip": "C:\\Users\\Dom\\source\\repos\\Concat\\Concat\\Program.cs*",
+              "RelativeToolTip": "Concat\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:00:35.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Count, StringConcat (ms), StringBuilder (ms)
+1000, 4, 0
+10000, 332, 2
+100000, 98218, 26
